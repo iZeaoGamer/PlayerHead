@@ -1,9 +1,9 @@
-name: PlayerHead  
+name: VMHead  
 main: Legoboy\PlayerHead\Main
 version: "1.0.0"
-api: [2.0.0]
-author: Legoboy
+api: [3.0.0-ALPHA6]
+author: Zeao
 commands:
   head:
     usage: "/head [sell]"
-    description: "PlayerHead main command!"
+    description: "VMHead main command!"
